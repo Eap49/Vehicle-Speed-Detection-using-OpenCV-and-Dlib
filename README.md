@@ -1,2 +1,2 @@
-# Vehicle-Speed-Detection-using-OpenCV-and-Dlib
-A Python project that detects and tracks vehicles in video streams using OpenCV and Dlib. It uses a cascade classifier for car detection, tracks multiple vehicles simultaneously, and estimates their real-world speeds by calculating pixel movement and frame rate. Ideal for traffic surveillance, road safety, and research applications.
+Overview
+This project detects and tracks vehicles in video streams using OpenCV and Dlib. It estimates the real-world speed of each vehicle by analyzing their movement across video frames. The system uses a cascade classifier for vehicle detection and correlation trackers for robust multi-object tracking. This tool is useful for traffic monitoring, road safety analysis, and research purposes.
